@@ -10,10 +10,10 @@
 **Coach en apprentissages numériques** (Formateur certifié Symantec/Altiris, CFFE, **FSEA**/FF1 Eduqua)
 
 
-* **[www.ICT-a.ch](www.ICT-a.ch)** cofondateur de la coopérative des conseillers numériques indépendants en Suisse romande, pour des transitions informatiques utiles dans les PME/TPE, non profits et public organisations. Coach médiateurs pour les DSI ou interim.
+* **[www.ICT-a.ch](http://ICT-a.ch)** cofondateur de la coopérative des conseillers numériques indépendants en Suisse romande, pour des transitions informatiques utiles dans les PME/TPE, non profits et public organisations. Coach médiateurs pour les DSI ou interim.
   * [Conseiller Numérique](https://github.com/ICT-A/Published.Docs/blob/master/ICT-a/ConseillerNum%C3%A9rique.md)
   * Signataire de la charte [Kalix](http://kalix.ict-a.ch)
-* **[www.QuickLearn.ch](www.QuickLearn.ch)** pour accompagner entreprises et individus, dans une formation continue pertinente sur les révolutions du numérique.
+* **[www.QuickLearn.ch](http://QuickLearn.ch)** pour accompagner entreprises et individus, dans une formation continue pertinente sur les révolutions du numérique.
 
 # PRO bono #
 ## Lean-Design ##
